@@ -9,10 +9,12 @@
 
 cDatabase::cDatabase ()
 {
+    
 }
 
 cDatabase::cDatabase (const cDatabase& orig)
 {
+    
 }
 
 cDatabase::~ cDatabase ()
